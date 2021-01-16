@@ -1,2 +1,2 @@
-# finding nemo
+# Finding nemo
 mnemonics maker python shell script
